@@ -1,0 +1,5 @@
+rabbit:
+  enable: true
+logging:
+  level:
+    ru.digitalleague.core: debug
